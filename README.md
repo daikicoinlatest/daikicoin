@@ -25,7 +25,7 @@ Daikicoin is released under the [MIT License](COPYING.txt), which means you're f
 
 ## Getting Started
 
-To start building on Daikicoin or running your node, follow our detailed [documentation](#).
+To start building on Daikicoin or running your node, follow our detailed [documentation](Install.md).
 
 
 
@@ -42,9 +42,22 @@ To start building on Daikicoin or running your node, follow our detailed [docume
 | **Coin Head**               | **Value**        |
 |-----------------------------|------------------|
 | Ticker                      | DIC       |
-| Chain ID                      | 73390       |
+| Chain ID                      | 91620       |
+| Genesis                      | daikicoinmainnet.json       |
 | Public RPC URL                   | https://mainnetrpc.daikicoin.org  |
 | Public Explorer URL                    | https://explorer.daikicoin.org  |
+| P2P Port                    | 17135   |
+| RPC Port                    | 8545  |
+| WSS Port                    | 8546  |
+
+### DIC TestNet
+| **Coin Head**               | **Value**        |
+|-----------------------------|------------------|
+| Ticker                      | tDIC       |
+| Chain ID                      | 81387       |
+| Genesis                      | daikicointestnet.json       |
+| Public RPC URL                   | https://testnetrpc.daikicoin.org  |
+| Public Explorer URL                    | https://testnet-explorer.daikicoin.org  |
 | P2P Port                    | 17135   |
 | RPC Port                    | 8545  |
 | WSS Port                    | 8546  |
