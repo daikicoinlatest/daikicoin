@@ -58,7 +58,7 @@ To start building on Daikicoin or running your node, follow our detailed [docume
 | Genesis                      | daikicointestnet.json       |
 | Public RPC URL                   | https://testnetrpc.daikicoin.org  |
 | Public Explorer URL                    | https://testnet-explorer.daikicoin.org  |
-| P2P Port                    | 17135   |
+| P2P Port                    | 27135   |
 | RPC Port                    | 8545  |
 | WSS Port                    | 8546  |
 
